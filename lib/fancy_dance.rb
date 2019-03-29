@@ -1,4 +1,4 @@
-nce
+module FancyDance
   module InstanceMethods
  
     def twirl
@@ -24,5 +24,4 @@ nce
       "This class produces objects that love to dance."
     end
   end
-end
 end
